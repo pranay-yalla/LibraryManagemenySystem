@@ -41,8 +41,11 @@ Menu:
 4. Return Book
 5. Exit
 Choose an option: 1
+
 Enter book title: Atomic Habits
+
 Enter author name: James Clear
+
 ✅ Book added successfully!
 
 Menu:
